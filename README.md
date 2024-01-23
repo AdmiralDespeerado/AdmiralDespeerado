@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on some pojects
+### 🔭 I’m currently working on some projects
 ### 🌱 I’m currently learning MERN Stack
 <!--
 **AdmiralDespeerado/AdmiralDespeerado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
